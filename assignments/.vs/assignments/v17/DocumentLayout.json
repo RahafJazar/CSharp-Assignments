@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2906F3-113B-4589-822E-52F4E0D5EEE5}|assignment2\\assignment2.csproj|c:\\users\\rjazar\\source\\repos\\rahafjazar\\csharp-assignments\\assignments\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2906F3-113B-4589-822E-52F4E0D5EEE5}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F9BFE-967B-45DA-8BE9-BDBB87E548F0}|assignments\\assignments.csproj|c:\\users\\rjazar\\source\\repos\\rahafjazar\\csharp-assignments\\assignments\\assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F9BFE-967B-45DA-8BE9-BDBB87E548F0}|assignments\\assignments.csproj|solutionrelative:assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2090367263:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "assignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignment2\\Program.cs",
+              "RelativeToolTip": "assignment2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T10:01:54.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignments\\Program.cs",
+              "RelativeDocumentMoniker": "assignments\\Program.cs",
+              "ToolTip": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignments\\Program.cs",
+              "RelativeToolTip": "assignments\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T08:10:13.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
