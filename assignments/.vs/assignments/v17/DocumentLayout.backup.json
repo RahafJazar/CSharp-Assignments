@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{EE2906F3-113B-4589-822E-52F4E0D5EEE5}|assignment2\\assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCED2D55-5476-42D0-A0CD-5AE7060E8C2D}|assignment1\\assignment1.csproj|c:\\users\\rjazar\\source\\repos\\rahafjazar\\csharp-assignments\\assignments\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCED2D55-5476-42D0-A0CD-5AE7060E8C2D}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCED2D55-5476-42D0-A0CD-5AE7060E8C2D}|assignment1\\assignment1.csproj|c:\\users\\rjazar\\source\\repos\\rahafjazar\\csharp-assignments\\assignments\\assignment1\\books\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCED2D55-5476-42D0-A0CD-5AE7060E8C2D}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\books\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{873F9BFE-967B-45DA-8BE9-BDBB87E548F0}|assignments\\assignments.csproj|c:\\users\\rjazar\\source\\repos\\rahafjazar\\csharp-assignments\\assignments\\assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{873F9BFE-967B-45DA-8BE9-BDBB87E548F0}|assignments\\assignments.csproj|solutionrelative:assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -50,41 +42,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignment2\\Program.cs",
               "RelativeDocumentMoniker": "assignment2\\Program.cs",
-              "ToolTip": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignment2\\Program.cs*",
-              "RelativeToolTip": "assignment2\\Program.cs*",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAAwL8AAAA1AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignment2\\Program.cs",
+              "RelativeToolTip": "assignment2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-26T10:01:54.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignment1\\Books\\Book.cs",
-              "RelativeDocumentMoniker": "assignment1\\Books\\Book.cs",
-              "ToolTip": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignment1\\Books\\Book.cs",
-              "RelativeToolTip": "assignment1\\Books\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T08:20:57.775Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignment1\\Program.cs",
-              "RelativeDocumentMoniker": "assignment1\\Program.cs",
-              "ToolTip": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignment1\\Program.cs",
-              "RelativeToolTip": "assignment1\\Program.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAADwv1gAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T08:10:36.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rjazar\\source\\repos\\RahafJazar\\CSharp-Assignments\\assignments\\assignments\\Program.cs",
               "RelativeDocumentMoniker": "assignments\\Program.cs",
